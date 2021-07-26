@@ -1,3 +1,7 @@
 public class UserService{
 
+public void m1(){
+System.out.println("Checkout command ")
+}
+
 }
